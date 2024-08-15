@@ -1,0 +1,112 @@
+.wc-shipping_page_wcsm-cities .city-settings {
+    margin-right: auto;
+    position: relative;
+    align-items: center;
+    line-height: 54px;
+    clear: both;
+}
+.wc-shipping_page_wcsm-cities .city-settings {
+    display: flex;
+}
+
+
+.wc-shipping_page_wcsm-cities .city-settings input[type="text"] {
+    margin: 1%;
+    float: left;
+    width: 45.5%;
+    border: 4px double #00000036;
+}
+.wc-shipping_page_wcsm-cities .city-only a.remove_button {
+    position: absolute;
+    right: 20%;
+    line-height: 0;
+}
+.wc-shipping_page_wcsm-cities .city-only .city-settings input[type="text"] {
+    margin: 1% auto;
+}
+.wc-shipping_page_wcsm-cities .city-only .city-header div {
+    margin: auto;
+    float: none;
+}
+.wc-shipping_page_wcsm-cities a.add_button {
+    box-shadow: unset;
+}
+.wc-shipping_page_wcsm-cities a.remove_button {
+    width: 5%;
+    float: left;
+    line-height: 0;
+}
+.wc-shipping_page_wcsm-cities .city-header {
+    width: 100%;
+    margin-right: auto;
+    position: relative;
+    align-items: center;
+    vertical-align: middle;
+    text-align: center;
+}
+.wc-shipping_page_wcsm-cities .city-header div {
+    margin-right: auto;
+    margin: 1%;
+    float: left;
+    width: 45.5%;
+}
+/* .toplevel_page_wcsm-settings a.add_button,.toplevel_page_wcsm-settings .submit {
+    width: auto;
+    float: left;
+    clear: both;
+} */
+.wcsm-error {
+    text-align: center;
+    margin-top: 20%;
+}
+.wcsm-error h3 {
+    color: #ffa707;
+    text-align: center!important;
+
+}
+.wcsm-error h2 {
+    color: #a73434;
+    text-align: center!important;
+}
+a.wcsm-toggler {
+    text-align: center;
+    width: 33.3333333333%;
+        display: block;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #007cba;
+    border-radius: 5px 5px 0 0;
+}
+#cities_data {
+    margin: 10px 0;
+}
+.city_wrapper {
+    width: 33.3333333333%;
+    padding: 10px;
+    background: white;
+    border: 1px solid #dccbcb;
+}
+.city-header h4 {
+    margin: 0.33em 0;
+}
+.wcsm-toggler h3 {
+    margin: 0;
+}
+.country-collapsed{
+    border: 1px solid #dccbcb!important;
+}
+@media screen and (max-width: 782px){
+    .wc-shipping_page_wcsm-cities .city-settings {
+        width: 100%;
+    }
+    .wc-shipping_page_wcsm-cities.city-header {
+        width: 100%;
+    }
+    .city_wrapper {
+        width:auto;
+        padding: 10px;
+    }
+    a.wcsm-toggler {
+        width:auto;
+    }
+}

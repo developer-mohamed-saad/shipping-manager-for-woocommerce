@@ -1,0 +1,118 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Shipping Manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 15:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.5.1"
+
+#. Name of the plugin
+#: inc/wcsm-admin.php:25 inc/wcsm-admin.php:190
+msgid "Shipping Manager For WooCommerce"
+msgstr ""
+
+#: inc/wcsm-admin.php:59
+msgid "Parent Country"
+msgstr ""
+
+#: inc/wcsm-admin.php:76
+msgid "Cities"
+msgstr ""
+
+#: inc/wcsm-admin.php:117
+msgid " Cities"
+msgstr ""
+
+#: inc/wcsm-admin.php:122
+msgid "City Name"
+msgstr ""
+
+#: inc/wcsm-admin.php:123
+msgid "Shipping Cost"
+msgstr ""
+
+#: inc/wcsm-admin.php:205
+msgid "Settings"
+msgstr ""
+
+#: inc/wcsm-admin.php:207
+msgid "City Label:"
+msgstr ""
+
+#: inc/wcsm-admin.php:213
+msgid "Calculate cities shipping rates from:"
+msgstr ""
+
+#: inc/wcsm-admin.php:222 inc/wcsm-admin.php:229 inc/wcsm-admin.php:237
+#: inc/wcsm-admin.php:244
+msgid "Shipping Fields"
+msgstr ""
+
+#: inc/wcsm-admin.php:227 inc/wcsm-admin.php:235 inc/wcsm-admin.php:242
+msgid "Billing Fields"
+msgstr ""
+
+#: inc/wcsm-admin.php:247
+msgid "Note:"
+msgstr ""
+
+#: inc/wcsm-admin.php:247
+msgid ""
+" You must select it first from WooCommerce->Settings->Shipping->Shipping "
+"options."
+msgstr ""
+
+#: inc/wcsm-admin.php:253
+msgid "Disable Fields:"
+msgstr ""
+
+#: inc/wcsm-admin.php:256
+msgid "Shipping Fields:"
+msgstr ""
+
+#: inc/wcsm-admin.php:260 inc/wcsm-admin.php:298
+msgid "Company name"
+msgstr ""
+
+#: inc/wcsm-admin.php:262 inc/wcsm-admin.php:300
+msgid "Apartment, suite, unit, etc."
+msgstr ""
+
+#: inc/wcsm-admin.php:263 inc/wcsm-admin.php:301
+msgid "State / County"
+msgstr ""
+
+#: inc/wcsm-admin.php:264 inc/wcsm-admin.php:302
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: inc/wcsm-admin.php:299
+msgid "Street address"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This Plugin adds awesome features and capabilities to WooCommerce checkout "
+"Shipping proccess."
+msgstr ""
+
+#. URI of the plugin
+msgid "webdevelopersaad.com/plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "Mohamed Saad"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "webdevelopersaad.com"
+msgstr ""
